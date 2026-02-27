@@ -1,16 +1,1 @@
-Project 1 :
-Finance Tracker
-When a recruiter asks about this project, you can say:
-1.
-"I used Encapsulation by making the Transaction fields private."
 
-"I used the ArrayList collection to dynamically store data in memory."
-
-"I implemented a Scanner-based CLI to handle user input and control the program flow."
-
-2.
-"I implemented Data Persistence using the java.io package."
-
-"I handled Checked Exceptions using try-with-resources to prevent memory leaks."
-
-"I designed a custom Data Parsing logic to convert CSV strings back into Java Objects."
