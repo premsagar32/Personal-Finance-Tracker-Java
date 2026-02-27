@@ -1,1 +1,15 @@
+# 💰 Personal Finance Tracker (Core Java)
 
+A high-performance command-line application designed to automate personal expense tracking and financial data management. This project focuses on the core foundations of Java, specifically Object-Oriented Programming (OOP) and persistent data storage.
+
+## 🚀 Key Features
+* **Data Persistence:** Implemented custom File I/O logic to save and load transactions from local text files.
+* **OOP Architecture:** Utilized Encapsulation and abstraction to ensure a clean, maintainable codebase.
+* **Dynamic Management:** Uses the Java Collections Framework (ArrayList) for efficient in-memory data handling.
+
+## 🛠️ Tech Stack
+* **Language:** Java 17/21
+* **Concepts:** File I/O (java.io), Collections API, Exception Handling.
+
+## 📈 Learning Outcomes
+This project demonstrates my ability to build standalone Java applications that handle real-world data constraints, ensuring information is preserved across user sessions without the need for a heavy database.
